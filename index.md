@@ -4,11 +4,11 @@ This is my home page! My name is Jonathan Nunez and I am a student at Cal State 
 
 Computer Science Projects
 
-My github page is http://github.com/JJNunez03
+My github page is https://github.com/JJNunez03
 
 CPSC 120
 
-* Lab 3
+ * Lab 3
       
       Lab 3, part 1 was a favorite of mine because we had to make a sandwich madlib word game that would describe a sandwich order. This lab helped me understand how and when to utilize variables such as std::cout, std::cin, and std::string when coding. When I ran the program I was able to fill in the blanks to describe a sandwich order of whatever I could think of.
 
